@@ -1,9 +1,10 @@
 {
     "data": [{
+        "id": 1,
         "name": "Dimas Rachmat Tieskara",
         "mobileNumber": "628129063694",
         "email": "tieskara@gmail.com",
         "password": "sjdfkhgsjdfgjsdf",
-        "pin": "123456"
+        "pin": 123456
     }]
 }
